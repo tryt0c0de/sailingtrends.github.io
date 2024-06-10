@@ -1,1 +1,1 @@
-# Webpage For my quant projects
+# Webpage for quant projects
